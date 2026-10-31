@@ -62,9 +62,9 @@ Theme-Clock/
 
 ## 🔗 Project Links
 
-**GitHub Repository:** Add your repository URL here.
+**GitHub Repository:** https://github.com/sabeenaedu23
 
-**Live Demo:** Add your GitHub Pages URL here.
+**Live Demo:** https://sabeenaedu23.github.io/theme-clock/
 
 ## 👩‍💻 Developed By
 
